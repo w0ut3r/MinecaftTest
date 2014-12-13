@@ -1,0 +1,22 @@
+
+[
+{
+  "modid": "jos",
+  "name": "jos loyens",
+  "description": "jos is love, jos is life",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "DrW0ut3r"
+  ],
+  "credits": "joske loyens",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
